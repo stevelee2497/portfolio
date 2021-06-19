@@ -18,7 +18,7 @@ const Home = () => {
   return (
     <div>
       <div className="h-screen relative flex items-center bg-gray-100 text-white justify-center">
-        <div className="h-full w-full bg-gradient-to-tr from-indigo-400 to-blue-500 absolute"></div>
+        <div className="h-full w-full bg-gradient-to-tr from-purple-700 via-indigo-500 to-blue-500 absolute"></div>
         <p className="z-10 absolute bottom-4 left-4">From @steven with love 💛</p>
         <div className="z-10 flex flex-col md:flex-row p-10 md:p-20 justify-around">
           <div className="font-extralight text-2xl md:text-3xl lg:text-4xl flex flex-col justify-center">
