@@ -4,6 +4,8 @@ import dev from "../assets/lottie/dev.json";
 import facebook from "../assets/images/facebook.svg";
 import github from "../assets/images/github.svg";
 import linkedin from "../assets/images/linkedin.svg";
+import email from "../assets/images/email.svg";
+import phone from "../assets/images/phone.svg";
 
 const Home = () => {
   const defaultOptions = {
@@ -37,6 +39,12 @@ const Home = () => {
               </a>
               <a href="https://www.linkedin.com/in/quoc-tran-999a1317b/" className="flex">
                 <img src={linkedin} alt="" className="w-7 mx-1" />
+              </a>
+              <a href="tel:+84-784-836-358" className="flex">
+                <img src={phone} alt="" className="w-7 mx-4" />
+              </a>
+              <a href="mailto:quoctran2124@gmail.com" className="flex">
+                <img src={email} alt="" className="w-10 mx-1" />
               </a>
             </div>
           </div>
