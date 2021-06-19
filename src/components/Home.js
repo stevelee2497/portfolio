@@ -48,7 +48,7 @@ const Home = () => {
               </a>
             </div>
           </div>
-          <div className="w-full md:w-2/5">
+          <div className="w-full md:w-2/5 mt-14 md:mt-0">
             <Lottie options={defaultOptions} />
           </div>
         </div>
