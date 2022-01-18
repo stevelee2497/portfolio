@@ -26,7 +26,7 @@ const Home = () => {
           <div className="font-extralight text-2xl md:text-3xl lg:text-4xl flex flex-col justify-center">
             <p>Hello there.</p>
             <p className="pt-4">
-              I'm <span className="font-bold text-3xl md:text-4xl lg:text-5xl">Steven Tran</span>
+              I'm <span className="font-bold text-3xl md:text-4xl lg:text-5xl">Quoc Tran</span>
             </p>
             <p className="pt-4">I'm a Full Stack Developer.</p>
             <p className="pt-8">Find Me on</p>
